@@ -1,4 +1,4 @@
-- # About Me
+# About Me
 
 👋 Hi there! I'm a cross-disciplinary engineer passionate about the convergence of technology, data science, and coding. My journey in engineering has allowed me to explore diverse fields, blending my love for technology and data-driven problem-solving.
 
