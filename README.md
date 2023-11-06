@@ -1,31 +1,18 @@
-# About Me
+# 💫 About Me:
+About Me<br>👋 Hi there! I'm a cross-disciplinary engineer passionate about the convergence of technology, data science, and coding. My journey in engineering has allowed me to explore diverse fields, blending my love for technology and data-driven problem-solving.<br><br>What I Do<br>🌐 As an engineer,I enjoy finding solutions at the intersection of technology and innovation, bridging gaps between disciplines.<br><br>📊 I'm fascinated by data science, exploring data analysis, machine learning, and AI. I enjoy extracting meaningful insights and creating impactful solutions from data.<br><br>Interests<br>🌱Passionate about learning and sharing knowledge in coding, data science, and their real-world applications. Excited by open-source contributions and collaborative projects.<br><br>Let's Connect<br>🚀 I'm here to collaborate, learn, and contribute. Feel free to reach out for discussions, collaborations, or simply to share thoughts on exciting projects or ideas!<br><br>Languages & Tools<br>🛠️ Python, C/C++, SQL, Git, and more.<br><br>Find Me<br>📫 You can also explore more about my work on https://www.linkedin.com/in/meldaelmas/. Looking forward to connecting with the vibrant GitHub community!
 
-👋 Hi there! I'm a cross-disciplinary engineer passionate about the convergence of technology, data science, and coding. My journey in engineering has allowed me to explore diverse fields, blending my love for technology and data-driven problem-solving.
 
-## What I Do
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/meldaelmas/) 
 
-🌐 As an engineer,I enjoy finding solutions at the intersection of technology and innovation, bridging gaps between disciplines.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mel77E&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mel77E&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mel77E&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-📊 I'm fascinated by data science, exploring data analysis, machine learning, and AI. I enjoy extracting meaningful insights and creating impactful solutions from data.
+---
+[![](https://visitcount.itsvg.in/api?id=Mel77E&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Interests
-
-🌱Passionate about learning and sharing knowledge in coding, data science, and their real-world applications. Excited by open-source contributions and collaborative projects.
-
-## Let's Connect
-
-🚀 I'm here to collaborate, learn, and contribute. Feel free to reach out for discussions, collaborations, or simply to share thoughts on exciting projects or ideas!
-
-## Languages & Tools
-
-🛠️ Python, C/C++, SQL, Git, and more.
-
-## Find Me
-
-📫 You can also explore more about my work on https://www.linkedin.com/in/meldaelmas/.
-Looking forward to connecting with the vibrant GitHub community!
-
-<!---
-Mel77E/Mel77E is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
