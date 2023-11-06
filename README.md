@@ -18,7 +18,7 @@
 
 ## Languages & Tools
 
-🛠️ Python, Java, C/C++, SQL, TensorFlow, sci-kit-learn, Git, and more.
+🛠️ Python, C/C++, SQL, Git, and more.
 
 ## Find Me
 
